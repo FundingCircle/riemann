@@ -20,7 +20,7 @@
     [javax.xml.bind/jaxb-api "2.4.0-b180830.0359"]
     [ch.qos.logback/logback-classic "1.2.3"]
     [com.github.juise/logstash-logback-layout "1.0"]
-    [net.logstash.logback/logstash-logback-encoder "4.11"]
+    [net.logstash.logback/logstash-logback-encoder "6.4"]
     [org.influxdb/influxdb-java "2.8"]
     [com.cemerick/pomegranate "1.0.0"
      :exclusions [org.codehaus.plexus/plexus-utils]]
